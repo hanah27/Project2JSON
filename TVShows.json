@@ -1,0 +1,12 @@
+{
+	"TVShows":
+	[
+		{"ShowName":"The Originals","ShowDescription":"The series follows vampire-werewolf hybrid Klaus Mikaelson as he and his family become embroiled in the supernatural politics of the French Quarter of New Orleans.","ShowGenre":"Drama","ShowReview":"4.9/5 stars","SeasonsNum":"4 Seasons","ShowSite":"https://www.tvguide.com/tvshows/the-originals/1000449661/","ShowImage":"https://github.com/hanah27/Project2JSON/blob/main/originals.png?raw=true"},
+		{"ShowName":"Ancient Aliens","ShowDescription":"Texts, archaeology and legend contain evidence of past human-extraterrestrial contact.","ShowGenre":"Documentary","ShowReview":"7.2/10 stars","SeasonsNum":"17 Seasons","ShowSite":"https://www.tvguide.com/tvshows/ancient-aliens/1000026544/","ShowImage":"https://github.com/hanah27/Project2JSON/blob/main/ancient-aliens.jpeg?raw=true"},
+		{"ShowName":"Black Mirror","ShowDescription":"A series of stand-alone dramas that tell sharp, suspenseful, satirical tales that explore techno-paranoia.","ShowGenre":"Sci-fi","ShowReview":"4.6/5 stars","SeasonsNum":"5 Seasons","ShowSite":"https://www.tvguide.com/tvshows/black-mirror/1030101767/","ShowImage":"https://github.com/hanah27/Project2JSON/blob/main/blackmirror.png?raw=true"},
+		{"ShowName":"Fresh Prince of Bel-Air","ShowDescription":"Will Smith is a street-smart teenager from West Philadelphia, whose mother sends to live with his wealthy relatives at their Bel-Air mansion is Los Angeles, California.","ShowGenre":"Comedy, Sitcom","ShowReview":"4.8/5 stars","SeasonsNum":"6 Seasons","ShowSite":"https://www.tvguide.com/tvshows/the-fresh-prince-of-bel-air/1000138169/","ShowImage":"https://github.com/hanah27/Project2JSON/blob/main/bel-air.jpeg?raw=true"},
+		{"ShowName":"American Horror Story","ShowDescription":"An anthology series centering on different characters and locations, including a house with a murderous past, and insane asylum, a witch coven, a freak show circus, a haunted hotel, a possessed farmhouse, a cult, the apocalypse, a slasher summer camp, and a bleak beach town.","ShowGenre":"Horror","ShowReview":"4.7 stars","SeasonsNum":"10 Seasons","ShowSite":"https://www.rollingstone.com/tv/tv-news/how-to-watch-american-horror-story-online-free-1215958/","ShowImage":"https://github.com/hanah27/Project2JSON/blob/main/ahs.jpeg?raw=true"}
+	],
+	"Status":OK"
+}
+	
