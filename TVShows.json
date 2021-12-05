@@ -7,6 +7,6 @@
 		{"ShowName":"Fresh Prince of Bel-Air","ShowDescription":"Will Smith is a street-smart teenager from West Philadelphia, whose mother sends to live with his wealthy relatives at their Bel-Air mansion is Los Angeles, California.","ShowGenre":"Comedy, Sitcom","ShowReview":"4.8/5 stars","SeasonsNum":"6 Seasons","ShowSite":"https://www.tvguide.com/tvshows/the-fresh-prince-of-bel-air/1000138169/","ShowImage":"https://github.com/hanah27/Project2JSON/blob/main/bel-air.jpeg?raw=true"},
 		{"ShowName":"American Horror Story","ShowDescription":"An anthology series centering on different characters and locations, including a house with a murderous past, and insane asylum, a witch coven, a freak show circus, a haunted hotel, a possessed farmhouse, a cult, the apocalypse, a slasher summer camp, and a bleak beach town.","ShowGenre":"Horror","ShowReview":"4.7 stars","SeasonsNum":"10 Seasons","ShowSite":"https://www.rollingstone.com/tv/tv-news/how-to-watch-american-horror-story-online-free-1215958/","ShowImage":"https://github.com/hanah27/Project2JSON/blob/main/ahs.jpeg?raw=true"}
 	],
-	"Status":OK"
+	"Status":"OK"
 }
 	
